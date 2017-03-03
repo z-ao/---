@@ -33,5 +33,5 @@
    progress([80, 90], [1, 3], 100);
 
    window.onload = () => {
-      progress(100, [1, 4], 100)
+      progress(100, [1, 4], 10)
    }
