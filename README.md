@@ -7,5 +7,3 @@ eval "$(ssh-agent -s)"  保存
 ssh-add ~/.ssh/id_rsa 进加
 vim ~/.ssh/id_rsa 得到公钥
 ssh -T git@github.com 测试
-vim
-vim branch
